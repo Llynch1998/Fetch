@@ -18,6 +18,7 @@
   width: 50vw;
   min-width: 300px;
   max-width: 400px;
+  border-radius: 5px;
 }
 
 .input-wrapper{
@@ -64,6 +65,8 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  border-top-left-radius: 4px;
+  border-top-right-radius: 4px;
 }
 
 #signup-form{
