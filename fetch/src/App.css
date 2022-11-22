@@ -47,6 +47,7 @@
 .submit:hover{
   background-color: #F8A619;
   color: black;
+  cursor: pointer;
 }
 .submit:disabled{
   background-color: #D3D3D3;
